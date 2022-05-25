@@ -1,2 +1,0 @@
-# Qlabs
-Pruebas automatizacion 
